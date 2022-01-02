@@ -15,6 +15,10 @@
 ## Discipline
 > An opinionated punishment and moderation suite. - [Github](https://github.com/oscailte-mc/discipline)
 
+## AutoBroadcast
+> Simple, asynchronous automatic broadcasting system based on Adventure and MiniMessage - [Github](https://github.com/oscailte-mc/AutoBroadcast), [SpigotMc](https://www.spigotmc.org/resources/autobroadcast.69377/)
+
+
 # Testimonials 
 ![](https://i.imgur.com/bYBg7kU.png)
 
